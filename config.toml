@@ -1,19 +1,18 @@
-baseURL = "http://example.org/"
+baseUrl = "https://example.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-theme-hello-friend"
-
+title = "Your site title"
+theme = "hello-friend"
 copyright = ""
 paginate = 5
 
 [params]
-  subtitle = "A simple theme for Hugo"
+  subtitle = "Your site subtitle"
 
 [params.logo]
-  logoText = "hello friend"
+ # logoText = "hello frieggggnd"
 #   or
 #
-#   path = "/img/your-example-logo.svg"
+path = "/img/nova.jpg"
 #   alt = "Your example logo alt text"
 
 [menu]
@@ -22,6 +21,6 @@ paginate = 5
     name = "About"
     url = "/about"
   [[menu.main]]
-    identifier = "showcase"
-    name = "Showcase"
-    url = "/showcase"
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
