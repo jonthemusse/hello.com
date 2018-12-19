@@ -1,18 +1,18 @@
 baseUrl = "https://example.com/"
 languageCode = "en-us"
-title = "Your site title"
+title = "One slime to rule them all"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
 
 [params]
-  subtitle = "Your site subtitle"
+  subtitle = "I like slime!"
 
 [params.logo]
- # logoText = "hello frieggggnd"
+logoText = "hello friennnnnd"
 #   or
 #
-path = "/img/nova.jpg"
+# path = "/img/nova.jpg"
 #   alt = "Your example logo alt text"
 
 [menu]
