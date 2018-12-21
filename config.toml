@@ -1,4 +1,4 @@
-baseUrl = "https://example.com/"
+baseUrl = "https://www.constellationcrafts.net"
 languageCode = "en-us"
 title = "One slime to rule them all"
 theme = "hello-friend"
@@ -9,7 +9,7 @@ paginate = 5
   subtitle = "I like slime!"
 
 [params.logo]
-logoText = "hello friennnnnd"
+logoText = "One slime to rule them all"
 #   or
 #
 # path = "/img/nova.jpg"
