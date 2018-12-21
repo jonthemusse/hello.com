@@ -1,7 +1,7 @@
 baseUrl = "https://www.constellationcrafts.net"
 languageCode = "en-us"
 title = "One slime to rule them all"
-#theme = "hello-friend"
+theme = "hugo-bare-min-theme"
 copyright = ""
 paginate = 5
 
