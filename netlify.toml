@@ -1,2 +1,2 @@
-[context.productionhugo.environment]
+[context.production.environment]
   HUGO_VERSION = "0.52"
